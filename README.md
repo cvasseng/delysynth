@@ -5,7 +5,7 @@ delysynth
 
 ![vst_screenshot.png](vst_screenshot.png)
 
-[Sound demo](testrender.aif) - all sound made in a single instance of delysid.
+[Sound demo](testrender.aif) - all sound made in a single instance of delysynth.
 
 I lost a bunch of the VST code in an unplanned OS format, so I kind of put this on ice. This is the code I was able to recover. The synth itself (in the src/ folder) is fully working, but there are at the very least image resources missing from the iplug (vst/rtas) project, and I have not tried to compile it in this state.
 
