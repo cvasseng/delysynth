@@ -93,8 +93,8 @@ int main(int argc, const char * argv[])
  // ds::set(0, ds::OSC2_SIN, 0.5);
   
   //Do a test write
-  //ds::saveInstruments("/Users/cvasseng/Documents/delysynth.bank");
-  //ds::loadInstruments("/Users/cvasseng/Documents/delysynth.bank");
+  //ds::saveInstruments("delysynth.bank");
+  //ds::loadInstruments("delysynth.bank");
   
   //Test modulation
   //ds::ActiveChannels[0].lfo1.targetA = ds::MOD_OSC1_SQU;
